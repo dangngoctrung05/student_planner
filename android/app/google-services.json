@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131458358589",
+    "project_id": "studentplanner-508fb",
+    "storage_bucket": "studentplanner-508fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131458358589:android:89ade9745102b0ae28f954",
+        "android_client_info": {
+          "package_name": "com.example.student_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI1m5oLpUK2sK1NC7s9GhkEaKnz4mjr3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
